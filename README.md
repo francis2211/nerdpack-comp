@@ -1,4 +1,4 @@
-# AeromexicoTest - Performance Monitoring Dashboard
+# nerdpack-comp - Performance Monitoring Dashboard
 
 A New Relic Nerdpack application for monitoring transaction performance metrics with percentile analysis.
 
@@ -125,7 +125,7 @@ SINCE 1 hour ago
 ### Nerdpack Metadata
 
 - **UUID**: `420c9433-218d-4560-9353-206315ccc2b7`
-- **Display Name**: AeromexicoTest
+- **Display Name**: nerdpack-comp
 - **Schema Version**: NERDPACK
 
 ### Dependencies
